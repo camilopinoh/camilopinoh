@@ -1,4 +1,4 @@
-
+<!-- https://readme-typing-svg.herokuapp.com/demo/?font=+Noto+fonts&weight=500&size=40&duration=4000&color=70A5FD&vCenter=true&lines=Hi+I%27m+Camilo+Pino -->
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=+Noto+fonts&weight=500&size=40&duration=4000&pause=1000&color=70A5FD&vCenter=true&width=435&lines=Hi+I'm+Camilo+Pino" alt="Typing SVG" /></a>
 </h1>
