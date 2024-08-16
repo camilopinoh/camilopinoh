@@ -16,7 +16,8 @@
 # Languages and Tools
 
 </div>
-<!-- https://github.com/Ileriayo/markdown-badges -->
+
+<!-- https://github.com/tandpfun/skill-icons#readme -->
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
@@ -26,6 +27,8 @@
     <img src="https://skillicons.dev/icons?i=cloudflare,notion,vscode,nginx,git,github " />
     <img src="https://skillicons.dev/icons?i=linux, windows" /><br>
 </div>
+
+<!-- https://github.com/Ileriayo/markdown-badges -->
 <!--
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
