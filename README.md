@@ -19,14 +19,30 @@
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-    <img src="https://skillicons.dev/icons?i=nodejs,angular,astro,express" />
-    <img src="https://skillicons.dev/icons?i=threejs,sequelize" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
-    <img src="https://skillicons.dev/icons?i=cloudflare,notion,vscode,nginx,git,github " />
-    <img src="https://skillicons.dev/icons?i=linux, windows" /><br>
+    <a href="" target="_blank">
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript"" />
+    </a>
+    <a href="" target="_blank">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+    </a>
+    <a href="" target="_blank">
+      <img src="https://skillicons.dev/icons?i=nodejs,angular,astro,express" />
+    </a>
+    <a href="" target="_blank">
+      <img src="https://skillicons.dev/icons?i=threejs,sequelize" /></span>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" /></span>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://skillicons.dev/icons?i=cloudflare,notion,vscode,nginx,git,github " />
+    </a>
+    <a href="" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linux, windows" />
+    </a>
 </div>
+
+<br>
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <!--
