@@ -8,6 +8,8 @@
   👩🏻‍💻 I'm an "Computer Engineer" and "Programmer Analyst" from Chile
 
   📚 I'm currently learning THREE.JS, Astro, Rust and serverless arquitecture
+
+  🗣️ The languages that i can speak are Spanish (native) and English (intermediate - B2)
   
 </div>
 
