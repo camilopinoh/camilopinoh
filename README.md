@@ -37,6 +37,9 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-[![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilopinoh&count_private=true&show_icons=true&theme=tokyonight&icon_color=4c71f2&text_color=DCDCDC)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  [![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilopinoh&count_private=true&show_icons=true&theme=tokyonight&icon_color=4c71f2&text_color=DCDCDC)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=camilopinoh&show_icons=true&locale=en&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=camilopinoh&show_icons=true&locale=en&layout=compact&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
