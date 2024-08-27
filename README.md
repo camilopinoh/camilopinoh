@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  👩🏻‍💻 I'm an "Computer Engineer" and "Programmer Analyst" from Chile
+  👩🏻‍💻 I'm a "Computer Engineer" and "Programmer Analyst" from Chile
 
   📚 I'm currently learning THREE.JS, Astro, Rust and serverless arquitecture
 
