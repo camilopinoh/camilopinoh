@@ -37,10 +37,10 @@
       <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" /></span>
     </a>
     <a href="" target="_blank">
-      <img src="https://skillicons.dev/icons?i=cloudflare,notion,vscode,nginx,git,github " />
+      <img src="https://skillicons.dev/icons?i=cloudflare,notion,vscode,nginx,git,github" />
     </a>
     <a href="" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linux, windows" />
+      <img src="https://skillicons.dev/icons?i=linux,windows" />
     </a>
 </div>
 
